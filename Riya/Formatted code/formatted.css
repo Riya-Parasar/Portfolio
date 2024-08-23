@@ -1633,10 +1633,8 @@ footer{
         overflow: hidden;
     }
   .hamburger{
-    /* display: block; */
     position: fixed;
     top: 0px;
-    /* right: 0; */
     width: 100vw;
     height: 115px;
     display: flex;
@@ -1724,7 +1722,6 @@ footer{
   list-style: none;
   font-size: 2rem;
   cursor: pointer;
-  /* display: none; */
   display: flex;
 transform: translate(1000px);
 transition-duration: 1s;
@@ -1996,4 +1993,6 @@ transition-duration: 1s;
         gap: 20px;
     }
   }
+
+  
  
